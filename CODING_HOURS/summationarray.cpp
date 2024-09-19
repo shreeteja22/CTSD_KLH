@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
     int n;
 
     printf("Enter the size of an array in numbers: ");
@@ -18,11 +19,12 @@ int main(){
 
     int sum = 0;
 
-    for ( int i = 0;i<n;++i){
-        sum+= arr[i];
+    for (int i = 0; i < n; ++i)
+    {
+        sum += arr[i];
     }
-    
+
     printf("Sum of all elements: %d\n", sum);
-    
+
     return 0;
 }
