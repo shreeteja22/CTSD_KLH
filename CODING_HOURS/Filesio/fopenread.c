@@ -11,7 +11,8 @@ int main(){
 
     // fgets(str, sizeof(str), fptr);
     // line antha read avvali ante with space use fgets
-    fscanf(fptr,"%s",str);
+    // fscanf(fptr,"%s",str);
+    //fscanf used to print only one word before the space
 
     printf("%s", str);
 

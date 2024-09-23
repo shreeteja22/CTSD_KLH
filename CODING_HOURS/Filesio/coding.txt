@@ -1,1 +1,2 @@
-This is the text we want to display by opening the file
+This is an example of writing to a file in C.
+Overwritten didn't happen so append
