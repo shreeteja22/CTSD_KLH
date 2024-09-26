@@ -2,7 +2,7 @@
 
 int main(){
 
-    int num,rem,rev = 0,palnum;
+    int num,rem,res = 0,palnum;
 
     printf("Enter the number you want to reverse it: ");
 
@@ -12,17 +12,17 @@ int main(){
 
     while (num != 0) {
         rem = num % 10;
-        rev = rev * 10 + rem;
+        res = res * 10 + rem;
         num = num / 10;
     }
     
-    if (palnum == rev) {
+    if (palnum == res) {
         printf("%d is a palindrome.\n", palnum);
     } 
     else {
         printf("%d is not a palindrome.\n", palnum);
     }
-    printf("The Reversed number is %d\n",rev);
+    printf("The Reversed number is %d\n",res);
     
     return 0;
 }
