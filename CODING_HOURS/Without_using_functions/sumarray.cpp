@@ -12,14 +12,14 @@ int main()
 
     printf("Enter %d values:\n", n);
 
-    for (int i = 0; i < n; ++i)
+    for (int i = 0; i < n; i++)
     {
         scanf("%d", &arr[i]);
     }
 
     int sum = 0;
 
-    for (int i = 0; i < n; ++i)
+    for (int i = 0; i < n; i++)
     {
         sum += arr[i];
     }
