@@ -13,8 +13,8 @@ int isEmpty(){
 
 void push(int data){
     if(!isFull()){
-        // top++;
-        // stack[top]=data;
+        top++;
+        stack[top]=data;
         stack[++top]=data;
     }
 }
