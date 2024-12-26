@@ -46,21 +46,6 @@ Welcome to the **CTSD_KLH** repository! This collection showcases various projec
 
 ---
 
-## 📚 Resources
-
-For additional reading and resources on Computational Thinking and Structural Design, consider exploring the following:
-
-- [Computational Thinking for Structure Design](https://www.scribd.com/document/695447281/Computational-Thinking-for-Structure-Design-1-303105104)  
-  A comprehensive guide providing instructions on laboratory experiments in computational thinking for structure design. 
-
-- [Computational Thinking Definition | Learning.com](https://www.learning.com/blog/defining-computational-thinking/)  
-  An article defining computational thinking as a problem-solving process involving various techniques and thought processes borrowed from computer science. 
-
-- [Computational Thinking - Introduction to Computer Science](https://openstax.org/books/introduction-computer-science/pages/2-1-computational-thinking)  
-  A chapter presenting key aspects of computational thinking, including logical thinking, assessment, decomposition, and pattern recognition. 
-
----
-
 ## 🤝 Contributions
 
 This repository is primarily for educational purposes. However, if you'd like to contribute or suggest improvements, feel free to fork the repository and submit a pull request.
